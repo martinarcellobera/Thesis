@@ -1,2 +1,2 @@
 # Thesis
-Master of Mathematical Sciences 2024
+Master of Mathematical Sciences, Australian National University 2024
