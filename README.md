@@ -7,6 +7,7 @@ The recommended order for opening the notebooks is:
 5. Barcelonabarcodes.ipynb
 The python files Aux_functions.py and pygraphsort.py are imported in some of these notebooks. The latter is property of my thesis co-advisor James Nichols.
 
+
 Regarding my algorithm problem-solving experience:
 
 ● I have competent theoretical knowledge of data structures and algorithms.
