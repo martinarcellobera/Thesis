@@ -5,7 +5,7 @@ The recommended order for opening the notebooks is:
 3. PCA_UMAP.ipynb
 4. STgraph.ipynb
 5. Barcelonabarcodes.ipynb
-The python files Aux_functions.py and pygraphsort.py are imported in some of these notebooks. The latter is property of my thesis co-advisor James Nichols.
+The python files Aux_functions.py and pygraphsort.py are imported in some of these notebooks. The latter is owned by my thesis co-advisor James Nichols.
 <br>
 
 Regarding my algorithm problem-solving experience:
